@@ -1,0 +1,19 @@
+body {
+  height: 100vh;
+  background: linear-gradient(to top left, darkcyan, rgb(157, 214, 214));
+}
+
+#biography {
+  float: left;
+  width: 500px;
+}
+
+.good {
+  color: darkgreen;
+  font-weight: bold;
+}
+
+.bad {
+  color: darkred;
+  font-weight: bold;
+}
